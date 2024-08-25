@@ -1,0 +1,131 @@
+body{
+    height: 900px;
+}
+b{
+    font-size: 40px;
+    color: rgb(22, 107, 163);
+}
+.luxury{
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+main{
+    width: 200px;
+    height: 2px;
+   
+    background-color: orange;
+}
+h1{
+    color: white;
+    font-size: 40px;
+}
+.lur{
+    font-size: 2rem;
+    width: 40%;
+}
+.main{
+   position: absolute;
+   left: 30%;
+   top: 50%;
+   
+   
+}
+.room{
+    display: flex;
+   align-items: center;
+
+   gap: 50px;
+   margin-left: 95px;
+}
+.btn2{
+    background-color: orange;
+    color: white;
+    width: 155px;
+    height: 55px;
+    
+    border: none;
+}
+.image{
+    display: flex;
+   justify-content: space-between;
+   position: absolute;
+   top: 550px;
+   width: 100%;
+    
+}
+.ph1{
+    width: 30%;
+}
+.ph2{
+    width: 30%;
+}
+.ph3{
+    width: 30%;
+}
+.rounded1{
+    width: 100%;
+}
+.rounded2{
+    width: 100%;
+}
+
+.rounded3{
+    width: 100%;
+}
+.figure-caption{
+    position: absolute;
+    top: 300px;
+    
+}
+
+.accordion{
+    position: relative;
+    top:120%;
+}
+.row{
+    position: relative;
+    top: 150%;
+    background-color: rgba(70, 118, 165, 0.492);
+}
+.ph1{
+    height: 100%;
+}
+.ph2{
+    height: 100%;
+}
+.ph3{
+    height: 100%;
+}
+.card{
+    height: 100%;
+}
+img{
+    height: 50%;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    color: #6c757d;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: -120%;
+    width: 100%;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
